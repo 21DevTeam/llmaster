@@ -1,4 +1,4 @@
-# LLMaster: Framework for NPC Dialogue Rephrasing
+#!PLASEHOLDER!ПРИМЕР! LLMaster: Framework for NPC Dialogue Rephrasing
 
 **LLMaster** is a universal tool for integrating Large Language Models (LLMs) into video games, specifically to enhance NPC dialogue with role-playing potential. The framework supports cloud-based and local models, enabling seamless connection and role-play generation for NPCs.
 
